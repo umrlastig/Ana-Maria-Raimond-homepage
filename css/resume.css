@@ -32,6 +32,7 @@ h6 {
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
+  text-transform: normal;
 }
 
 h2 {
@@ -48,7 +49,7 @@ p.lead {
 }
 
 .subheading {
-  text-transform: uppercase;
+  text-transform: ;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.5rem;
